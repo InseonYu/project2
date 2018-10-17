@@ -48,18 +48,7 @@
     display: inline-block; 
   } 
 
-  .menu li::before
-  { 
-    content: "|";
-    color: white;	
-  }
 
-  .menu li:first-child::before
-  { 
-    content: "";
-  }     
-  
- 
   .center 
   { 
     text-align: center; 
