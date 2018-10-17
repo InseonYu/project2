@@ -57,14 +57,14 @@
  
   .footer 
   {
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: #b6c1f9;
     color: #050d30; 
+    font-family: 'Righteous', cursive;
+    font-size: 30px; 
     text-align: center;
-    margin: 0 auto;	
   } 
  
   /*index*/ 
