@@ -22,7 +22,7 @@
     display: block;  
     color: #050d30;  
     text-align: center;  
-    align-content:center; 
+    align-content: center; 
     padding: 10px 16px; 
     text-decoration:none;  
     font-family: 'Righteous', cursive;
@@ -54,6 +54,18 @@
     text-align: center; 
   } 
  
+ 
+  .footer 
+  {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #b6c1f9;
+    color: #050d30; 
+    text-align: center;
+    margin: 0 auto;	
+  } 
  
   /*index*/ 
   
