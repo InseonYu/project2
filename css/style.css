@@ -48,18 +48,12 @@ table{
 }
   /*common*/ 
   
-*{
-  margin: 0px;
-  padding: 0px;	
-  box-sizing: border-box;
-}
-  
 body{ 
   background-color: #edf0ff; 
   line-height: 1; 
 } 
   
-  .menu{	 
+.menu{	 
   background-color: #b6c1f9;  
   height:50px; 
   width:100%; 
